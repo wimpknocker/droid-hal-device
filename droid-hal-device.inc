@@ -529,6 +529,8 @@ fi
 # Droid config droppings
 /*.rc
 /default.prop
+/selinux_versi
+/service_contexts
 # Disabling v4l.rules
 %{_sysconfdir}/udev/rules.d/60-persistent-v4l.rules
 
